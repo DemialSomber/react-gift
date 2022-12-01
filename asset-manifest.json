@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a90924d4.css",
+    "main.js": "/static/js/main.702e5498.js",
+    "static/js/787.9ba37629.chunk.js": "/static/js/787.9ba37629.chunk.js",
+    "static/media/Lego.jpg": "/static/media/Lego.aabcdc6b98604cac4e4e.jpg",
+    "static/media/roboto-condensed-bold.woff2": "/static/media/roboto-condensed-bold.d2d38f44e117e0625811.woff2",
+    "static/media/AboutUs.jpg": "/static/media/AboutUs.7441a9709083261b4b25.jpg",
+    "static/media/Shut.jpg": "/static/media/Shut.2aae4c51c33b144f4892.jpg",
+    "static/media/Kvadrik.jpg": "/static/media/Kvadrik.e0122a0b7ea9dff4e37b.jpg",
+    "static/media/xbox-series-s.jpg": "/static/media/xbox-series-s.a807377deaa35c58984e.jpg",
+    "static/media/konki.jpg": "/static/media/konki.3af2c6abe32b5455c8b2.jpg",
+    "static/media/YourGift.png": "/static/media/YourGift.c75a85de9188641096a3.png",
+    "index.html": "/index.html",
+    "main.a90924d4.css.map": "/static/css/main.a90924d4.css.map",
+    "main.702e5498.js.map": "/static/js/main.702e5498.js.map",
+    "787.9ba37629.chunk.js.map": "/static/js/787.9ba37629.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a90924d4.css",
+    "static/js/main.702e5498.js"
+  ]
+}
